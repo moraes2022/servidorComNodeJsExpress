@@ -1,0 +1,22 @@
+{
+  "name": "servidorcomnodejsexpress",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000e\u0000r\u0000v\u0000i\u0000d\u0000o\u0000r\u0000C\u0000o\u0000m\u0000N\u0000o\u0000d\u0000e\u0000J\u0000s\u0000E\u0000x\u0000p\u0000r\u0000e\u0000s\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moraes2022/servidorComNodeJsExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moraes2022/servidorComNodeJsExpress/issues"
+  },
+  "homepage": "https://github.com/moraes2022/servidorComNodeJsExpress#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
